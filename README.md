@@ -5,6 +5,8 @@ designers create delightful experiences and everything is intuitive and fun.
 
 ## Disable captions and lesson menu in Udacity classroom
 
+`udacity-disable-cc-and-hide-menu.js`
+
 Udacity classroom has a nasty habit of not caring if you disable the captions or not,
 or if you hide the menu, there is no option to adjust this behaviour either.
 
