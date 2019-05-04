@@ -9,8 +9,8 @@
 // @author chkhd
 // @run-at document-end
 // @grant none
-// @downloadURL https://github.com/chkhd/tampermonkey-scripts/raw/master/udacity-disable-cc-and-hide-menu.js
-// @updateURL https://github.com/chkhd/tampermonkey-scripts/raw/master/udacity-disable-cc-and-hide-menu.js
+// @downloadURL https://github.com/chkhd/tampermonkey-scripts/blob/master/udacity-disable-cc-and-hide-menu.js
+// @updateURL https://github.com/chkhd/tampermonkey-scripts/blob/master/udacity-disable-cc-and-hide-menu.js
 // ==/UserScript==
 
 (() => {
