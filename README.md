@@ -18,6 +18,16 @@ Thankfully Tampermonkey exists, and it was annoying enough to warrant a remedy. 
 
 The default UI has no option to hide the toolbox, and many useful features like highlights and notes are not available in reader view.
 
+## Automatically widen the lesson videos on Linux Academy
+The user can do this by hand, but the default UI resets this for every, single, video.
+
+`linuxacademy-auto-widen-video.js`
+
+## Automatically hide the schedule nagging box
+The user can do this too, but the default UI shows it again every, single, time the user visits the course page.
+
+`linuxacademy-hide-schedule-box.js`
+
 ## License
 
 Copyright 2019 David Chkhikvadze
