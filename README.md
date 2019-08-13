@@ -28,6 +28,11 @@ The user can do this too, but the default UI shows it again every, single, time 
 
 `linuxacademy-hide-schedule-box.js`
 
+## Hide marketing other annoying banners on edX
+In all my years I have never felt the desire to get a verified edX certificate, it is unlikely to change.
+
+`edx-hide-stuff.js`
+
 ## License
 
 Copyright 2019 David Chkhikvadze
