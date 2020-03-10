@@ -33,6 +33,10 @@ In all my years I have never felt the desire to get a verified edX certificate, 
 
 `edx-hide-stuff.js`
 
+## Expand repository list in Drone by default
+
+`drone-auto-expand-repos.js`
+
 ## License
 
 Copyright 2019 David Chkhikvadze
