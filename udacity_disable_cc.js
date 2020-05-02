@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         udacity_disable_subtitles
+// @name         udacity_disable_cc
 // @namespace    https://github.com/chkhd/tampermonkey-scripts
 // @version      0.1
 // @description  Udacity disable subtitles
